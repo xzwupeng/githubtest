@@ -4,3 +4,4 @@
 # 但不忽略 .gitignore 文件和 docs 文件夹
 !.gitignore
 !docs/
+!abc1.txt
